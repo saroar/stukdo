@@ -44,3 +44,7 @@ group :development, :test do
 end
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+
+# font gem for logo 
+gem 'font-awesome-rails'
