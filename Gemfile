@@ -48,3 +48,6 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 
 # font gem for logo 
 gem 'font-awesome-rails'
+
+#This is for Simple form 
+gem 'simple_form'
